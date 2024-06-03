@@ -4,7 +4,7 @@
 ## Stage D: Data Storytelling in Pattern Recognition
 #### Food Production and Supply in North Africa: A Decade of Dynamics (2004-2013)
 
-Python Code [Here]()
+Python Code [Here](https://github.com/Mayreeobi/Hamoye-HSDC/blob/main/STAGE%20D%20Task.ipynb)
 
 
 #### Problem Statement
