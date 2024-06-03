@@ -3,7 +3,9 @@
 
 ## Stage D: Data Storytelling in Pattern Recognition
 #### Food Production and Supply in North Africa: A Decade of Dynamics (2004-2013)
-![]
+
+Python Code [Here]()
+
 
 #### Problem Statement
 Understanding the food production and supply dynamics in Northern Africa is crucial for ensuring food security, optimizing resource allocation, and improving agricultural practices. This analysis focuses on the years 2004 and 2013 to uncover patterns and trends that can inform decision-making processes to enhance food availability and sustainability in the region.
