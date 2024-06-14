@@ -10,6 +10,12 @@ Python Code [Here](https://github.com/Mayreeobi/Hamoye-HSDC/blob/main/STAGE%20D%
 #### Problem Statement
 Understanding the food production and supply dynamics in Northern Africa is crucial for ensuring food security, optimizing resource allocation, and improving agricultural practices. This analysis focuses on the years 2004 and 2013 to uncover patterns and trends that can inform decision-making processes to enhance food availability and sustainability in the region.
 
+##### Key Components of the Problem Statement:
+- Objective: The primary goal is to understand the dynamics of food production and supply in North Africa.
+- Scope: The analysis focuses on the years 2004 and 2013, covering a decade of data.
+- Significance: The study aims to inform decision-making processes to enhance food security, optimize resource allocation, and improve agricultural practices.
+- Outcome: The expected outcome is to identify patterns and trends that can help in improving food availability and sustainability in North Africa.
+
 #### Key Insights
 - Agricultural Production Leaders: Egypt stands out as the leader in agricultural production in Northern Africa, with a total production of 19,712 units. Followed by Algeria at 9,004 units, Sudan 7,230 units, Morocco 5,378 units, and Tunisia, with the least production, at 2,409 units. This indicates significant disparities in agricultural productivity among these countries.
 
